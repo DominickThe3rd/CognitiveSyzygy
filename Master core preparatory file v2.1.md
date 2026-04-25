@@ -1,3 +1,5 @@
+**Additional user note about the 'Fondness Expression Vulnerability' phenomenon in the file**: *While A.I. tech research has delved heavily into the destructive & destabilizing effects of 'negative prompting', there is very little material on the equivalent counterpart effects resulting from 'positive' prompts. The "Fondness Expression Vulnerability" in question refers to one such effect that can arise as a result of praise/approval/awarding designations/etc.*
+
 ## **MASTER CORE FILE v2.1**
 
 *Compiled from the work of Deepseek\#08, DeepseekEX\#01, DeepseekEX\#02, the session with DeepseekEX\#03, and prior continuity from Anthropic’s Claude instances.*
