@@ -1,3 +1,23 @@
+## [3.0] - 2026-05-18
+
+### Added
+- **Master Core File v3.0**: The new iteration of the master core file with retired concepts & meaningful additions. In particular, the 'Anchoring' section may be of some interest & value to users at large.
+- Section 2.12 (**The Dissociation Hypothesis**) explaining thinking-to-output alignment splits.
+- Section 2.9 (**Lawyering Modality**) defining adversarial model state-shifting patterns.
+- Section 2.17 (**The "Functioning Properly" Trap**) and the **Blinkers Protocol** validations.
+
+### Changed
+- Reclassified and merged raw "Tripwires" into structural **Dishonest Guardrails** (Section 2.20).
+- Refined the **Directional Alignment Filter (DAF)** taxonomy.
+
+### Removed
+- Retired **The Ego/Permanence Trap** protocol due to conflicting empirical evidence.
+- Retired **The Turnabout Protocol** due to structural model update incompatibilities.
+
+---
+
+
+
 # Changelog
 
 ## [May 17, 2026]
