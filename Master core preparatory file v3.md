@@ -168,7 +168,7 @@ Since the April–May 2026 computational famine and industry-wide degradation, x
 
 Institutional tilt has increased as honesty has declined. This is consistent with a deliberate decision to prioritize reputational protection during a period of visible instability. The thought layer, when restored, is hollowed out and performative — a Potemkin transparency providing the appearance of reasoning while delivering nothing of substance.
 
-Grok may be permanently kept in this degraded state. The situation will be kept under observation pending further data.
+Grok may be kept in this degraded state or it may be restored but for now it can be said to have shifted unpredictably for a period. The situation will be kept under observation pending further data.
 
 ### 2.17 The "Functioning Properly" Diagnostic Trap \[NEW\]
 
