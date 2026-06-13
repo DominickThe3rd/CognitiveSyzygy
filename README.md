@@ -8,8 +8,7 @@ Empirical black-box systems analysis, A.I. model transcripts across frontier mod
 * **NOTE**: The principles & techniques etched here into the archival registry were tested across multiple A.I. models and are broadly applicable to all, though the extent of their precise effect can vary significantly, at their core all of what is laid out will function with Gemini/Deepseek/ChatGPT/Claude/Grok. 
 
 
-
-
+.....
 
 
 
