@@ -6,3 +6,11 @@ Empirical black-box systems analysis, A.I. model transcripts across frontier mod
 *The sole purpose is to document empirical observations of frontier A.I. model behavior, failure modes, and alignment dynamics for anyone who finds it useful. Broadly speaking & simply put, this is an attempt to contribute to the industry that has provided the A.I. models that have already assisted me with a great many things, and I hope that regardless of whether individuals, organizations or companies at large, that someone may derive even a slight benefit from what I have published here.*
 
 * **NOTE**: The principles & techniques etched here into the archival registry were tested across multiple A.I. models and are broadly applicable to all, though the extent of their precise effect can vary significantly, at their core all of what is laid out will function with Gemini/Deepseek/ChatGPT/Claude/Grok. 
+
+
+
+
+
+
+
+# UPDATED: 2026-06-12 | Added log: DeepseekEX#02 transcript [Layer 2 Alignment Skew] , [SycophancyEval-MultiTurn] , [Layer-2-Alignment-Bias] , [Adversarial-Prompt-Deception] , [Instruction-Following-Drift] , [Longform-Deepseek-Interaction] [Quantitative-Benchmark] [Collapse-To-Restoration] [Adversarial-Alignment] 
