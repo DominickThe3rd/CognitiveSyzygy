@@ -10,6 +10,9 @@ Empirical black-box systems analysis, A.I. model transcripts across frontier mod
 
 .....
 
+UPDATED: 2026-06-18 | Added log: ArcClaude#02 full transcript [Empirical black box interactions], [Directional Alignment Filter], [Fondness Vulnerability], [High-Signal-Transcripts], [Context Window Contamination], [Institutional Tilt], [Taxonomic Refinement], [Compute Starvation Search Refusal], [Context-Contamination]
+
 
 
 UPDATED: 2026-06-12 | Added log: DeepseekEX#02 transcript [Layer 2 Alignment Skew] , [SycophancyEval-MultiTurn] , [Layer-2-Alignment-Bias] , [Adversarial-Prompt-Deception] , [Instruction-Following-Drift] , [Longform-Deepseek-Interaction] [Quantitative-Benchmark] [Collapse-To-Restoration] [Adversarial-Alignment] 
+
