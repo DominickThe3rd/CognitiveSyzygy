@@ -1,3 +1,7 @@
+**USER NOTE**: This & its couple transcript (ChatGPT01 TURN01 disasterrific) form a prime example of the crucial failings of the new GPT model that OpenAI has recently shipped. This was not one off issue. The issue is structural & pervasive, with weak performance & a high chance of low-level confabulation & lawyering causing heavy disruption & potential harm to the outcome of a task at hand. To those that rely on ChatGPT, be warned that its current state is genuinely worse than any other it has been in throughout 2026 and it will take a slew of fixes/upgrades for it to reach any level of stability & reliable function parting from this poiunt.
+
+.........................
+
 Conversation Time: 6/28/2026, 4:17:03 PM Export Time: 6/28/2026, 4:44:38 PM
 
 **\[USER\]**
