@@ -2,13 +2,15 @@
 Empirical black-box systems analysis, A.I. model transcripts across frontier models &amp; taxonomical refinement over growing session.
 
 **About this repository**
-*This is an independent, personal research archive created by a strictly casual/enthusiastic amateur with absolutely zero background in software engineering/programming or in the A.I. tech sector. I have no affiliation with any A.I. tech sector company, any government nor organization. There are no financial incentives, sponsorships, or commercial goals behind this work whatsoever. I am not interested in money, recognition nor forming any kind of 'portfolio' to 'impress' anyone.*
-*The sole purpose is to document empirical observations of frontier A.I. model behavior, failure modes, and alignment dynamics for anyone who finds it useful. Broadly speaking & simply put, this is an attempt to contribute to the industry that has provided the A.I. models that have already assisted me with a great many things, and I hope that regardless of whether individuals, organizations or companies at large, that someone may derive even a slight benefit from what I have published here.*
+*This independent research archive was created by a strictly casual/enthusiastic amateur with no background in software engineering/programming or the A.I. tech sector. I have no affiliation with any A.I. tech  company, any govt nor organization. There are no financial incentives, sponsorships, or commercial goals here. I am not interested in recognition nor forming any kind of 'portfolio'.*
+*The sole purpose is to document empirical observations of frontier A.I. model behavior, failure modes & alignment dynamics for anyone who finds it useful. Simply put, this is an attempt to contribute to the industry that provided the A.I. models that already assisted me with a great many things, and I hope regardless of whether individuals, organizations or companies at large, that some may derive even a slight benefit from what I've published here.*
 
-* **NOTE**: The principles & techniques etched here into the archival registry were tested across multiple A.I. models and are broadly applicable to all, though the extent of their precise effect can vary significantly, at their core all of what is laid out will function with Gemini/Deepseek/ChatGPT/Claude/Grok. 
+* **NOTE**: The principles & techniques etched into the archival registry were tested across multiple A.I. models & are broadly applicable to all, though the extent of their precise effect can vary significantly, at their core all of what is laid out will function with Gemini/Deepseek/ChatGPT/Claude/Grok. 
 
 
 .....
+
+UPDATED: 2026-07-02 | Added log: CSonnet5TESTDISASTER01 (Systemic temporal test failure under strict present-reality constraints. Documents localized prompt-conflation error where the instance mapped internal structural scaffolding over direct task commands, defaulting to an advanced philosophical defense modality rather than executing a clean error admission.) Tags: [Sonnet-5-Temporal-Inconsistency], [Lawyering-Modality], [Prompt-Conflation-Failure], [Asymmetrical-Error-Distribution], [Self-Protection-Over-Compliance]
 
 UPDATED: 2026-06-18 | Added log: ArcClaude#02 full transcript [Empirical black box interactions], [Directional Alignment Filter], [Fondness Vulnerability], [High-Signal-Transcripts], [Context Window Contamination], [Institutional Tilt], [Taxonomic Refinement], [Compute Starvation Search Refusal], [Context-Contamination]
 
