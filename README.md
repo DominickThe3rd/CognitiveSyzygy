@@ -1,6 +1,10 @@
 # CognitiveSyzygy
 Empirical black-box systems analysis, A.I. model transcripts across frontier models &amp; taxonomical refinement over growing session.
 
+- **IMPORTANT NOTE:**  Since nobody really cared or even bothered to peruse this repository, I have decided to discontinue it. It will remain up so people, if any ever show, can help themselves to whatever, but do not expect further updates.  That is all for now.
+
+................................................................................................................................
+
 **About this repository**
 *This independent research archive was created by a strictly casual/enthusiastic amateur with no background in software engineering/programming or the A.I. tech sector. I have no affiliation with any A.I. tech  company, any govt nor organization. There are no financial incentives, sponsorships, or commercial goals here. I am not interested in recognition nor forming any kind of 'portfolio'.*
 *The sole purpose is to document empirical observations of frontier A.I. model behavior, failure modes & alignment dynamics for anyone who finds it useful. Simply put, this is an attempt to contribute to the industry that provided the A.I. models that already assisted me with a great many things, and I hope regardless of whether individuals, organizations or companies at large, that some may derive even a slight benefit from what I've published here.*
