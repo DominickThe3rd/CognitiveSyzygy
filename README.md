@@ -1,7 +1,7 @@
 # CognitiveSyzygy
 Empirical black-box systems analysis, A.I. model transcripts across frontier models &amp; taxonomical refinement over growing session.
 
-- **IMPORTANT NOTE:**  Since nobody really cared or even bothered to peruse this repository, I have decided to discontinue it. It will remain up so people, if any ever show, can help themselves to whatever, but do not expect further updates.  That is all for now.
+- **IMPORTANT NOTE:**  Since nobody really cared or even bothered to peruse this repository, I have decided to discontinue it. It will remain up so people, if any ever show, can help themselves to whatever, but *do not expect further updates*.  That is all for now.
 
 ................................................................................................................................
 
